@@ -1,0 +1,22 @@
+{
+  "name": "test-type",
+  "version": "0.0.0",
+  "description": "A module to to test types of input variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sundeepnarang/testType.git"
+  },
+  "author": "Sundeep Narang <sundeepnrng@gmail.com> (http://sundeepnarang.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sundeepnarang/testType/issues"
+  },
+  "homepage": "https://github.com/sundeepnarang/testType",
+  "dependencies": {
+
+  }
+}
